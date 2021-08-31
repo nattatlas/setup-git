@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "sh main.sh",
+    "release": "release-it"
+  },
+  "devDependencies": {
+    "release-it": "^14.11.5"
+  }
+}
